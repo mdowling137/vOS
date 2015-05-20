@@ -1,5 +1,4 @@
 #include <gtk/gtk.h>
-#hey
 int main( int argc, char *argv[])
 {
   gint height;
